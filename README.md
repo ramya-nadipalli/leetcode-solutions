@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0383-ransom-note](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0217-contains-duplicate](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Enumeration
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
