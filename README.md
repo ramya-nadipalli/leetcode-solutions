@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
