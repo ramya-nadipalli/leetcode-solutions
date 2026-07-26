@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
