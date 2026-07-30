@@ -281,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
