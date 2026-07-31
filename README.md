@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Memoization
 |  |
 | ------- |
@@ -305,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
