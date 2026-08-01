@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1207-unique-number-of-occurrences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
