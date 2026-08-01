@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0066-plus-one) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
