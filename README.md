@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0097-interleaving-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Recursion
