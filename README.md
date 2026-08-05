@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -254,12 +256,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Counting
 |  |
@@ -400,4 +404,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
