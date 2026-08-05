@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0292-nim-game) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0217-contains-duplicate) |
