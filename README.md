@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Sliding Window
 |  |
 | ------- |
