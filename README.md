@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
