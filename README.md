@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0202-happy-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0055-jump-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Hash Table
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
