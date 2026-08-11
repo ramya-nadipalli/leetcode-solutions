@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1260-shift-2d-grid) |
