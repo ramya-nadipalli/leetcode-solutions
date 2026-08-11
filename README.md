@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -249,14 +251,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
@@ -465,4 +471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
