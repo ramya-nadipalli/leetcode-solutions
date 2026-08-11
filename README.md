@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1929-concatenation-of-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## String Matching
 |  |
 | ------- |
