@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0097-interleaving-string) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Counting
