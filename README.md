@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0279-perfect-squares](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
@@ -538,4 +541,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
