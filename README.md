@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1563-stone-game-v) |
 ## Counting Sort
 |  |
 | ------- |
