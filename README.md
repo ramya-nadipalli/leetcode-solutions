@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0202-happy-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
