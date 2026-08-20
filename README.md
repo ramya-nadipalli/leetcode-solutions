@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0401-binary-watch) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
