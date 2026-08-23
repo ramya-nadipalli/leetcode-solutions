@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0401-binary-watch) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
