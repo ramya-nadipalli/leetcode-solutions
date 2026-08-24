@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Counting
 |  |
 | ------- |
@@ -599,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
