@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3941-password-strength](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3941-password-strength) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3941-password-strength](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3941-password-strength) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Enumeration
 |  |
