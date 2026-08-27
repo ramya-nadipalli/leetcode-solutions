@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0113-path-sum-ii) |
