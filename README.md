@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0097-interleaving-string) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Prefix Sum
 |  |
 | ------- |
