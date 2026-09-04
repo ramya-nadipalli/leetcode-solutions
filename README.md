@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0169-majority-element) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0401-binary-watch) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0279-perfect-squares) |
@@ -434,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Tree
 |  |
 | ------- |
@@ -649,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
