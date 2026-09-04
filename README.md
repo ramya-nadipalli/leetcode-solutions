@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0282-expression-add-operators) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/ramya-nadipalli/leetcode-solutions/tree/master/0338-counting-bits) |
